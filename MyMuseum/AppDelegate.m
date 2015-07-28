@@ -16,7 +16,14 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    
+    
+    
+    [ESTCloudManager setupAppID:@"beaconex" andAppToken:@"23daae8c41aa4ebbbb792a81749b021e"];    
+    
+    
+    
+    
     return YES;
 }
 

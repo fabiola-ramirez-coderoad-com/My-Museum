@@ -7,13 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2006BC931B68058400DF2C22 /* picture3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2006BC921B68058400DF2C22 /* picture3.jpg */; };
+		2006BC951B6811CD00DF2C22 /* picture1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2006BC941B6811CD00DF2C22 /* picture1.jpg */; };
+		2006BC981B681D3700DF2C22 /* beacon3ViewController3.m in Sources */ = {isa = PBXBuildFile; fileRef = 2006BC971B681D3700DF2C22 /* beacon3ViewController3.m */; };
+		2006BC9A1B6821B400DF2C22 /* picture2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2006BC991B6821B400DF2C22 /* picture2.jpg */; };
+		2006BC9C1B6821BB00DF2C22 /* Thumb-Up-Fiverr-Signature-Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 2006BC9B1B6821BB00DF2C22 /* Thumb-Up-Fiverr-Signature-Logo.png */; };
+		2006BC9E1B682ADB00DF2C22 /* Images-2.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2006BC9D1B682ADB00DF2C22 /* Images-2.xcassets */; };
+		2006BCA01B68349E00DF2C22 /* mojix copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 2006BC9F1B68349E00DF2C22 /* mojix copy.png */; };
+		2006BCA21B6834FA00DF2C22 /* icon-small.png in Resources */ = {isa = PBXBuildFile; fileRef = 2006BCA11B6834FA00DF2C22 /* icon-small.png */; };
 		20E1BDF81B67BD50009DAF41 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 20E1BDF71B67BD50009DAF41 /* main.m */; };
 		20E1BDFB1B67BD50009DAF41 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 20E1BDFA1B67BD50009DAF41 /* AppDelegate.m */; };
 		20E1BDFE1B67BD50009DAF41 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20E1BDFD1B67BD50009DAF41 /* ViewController.m */; };
 		20E1BE011B67BD50009DAF41 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20E1BDFF1B67BD50009DAF41 /* Main.storyboard */; };
 		20E1BE031B67BD50009DAF41 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20E1BE021B67BD50009DAF41 /* Images.xcassets */; };
-		20E1BE061B67BD50009DAF41 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 20E1BE041B67BD50009DAF41 /* LaunchScreen.xib */; };
 		20E1BE121B67BD50009DAF41 /* MyMuseumTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 20E1BE111B67BD50009DAF41 /* MyMuseumTests.m */; };
+		20E1BE1C1B67BD75009DAF41 /* EstimoteSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 20E1BE1B1B67BD75009DAF41 /* EstimoteSDK.framework */; };
+		20E1BE1F1B67D2C0009DAF41 /* beacon1ViewController1.m in Sources */ = {isa = PBXBuildFile; fileRef = 20E1BE1E1B67D2C0009DAF41 /* beacon1ViewController1.m */; };
+		20E1BE221B67D2DB009DAF41 /* beacon2ViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 20E1BE211B67D2DB009DAF41 /* beacon2ViewController2.m */; };
+		20E1BE251B67D2FC009DAF41 /* beacon1TableViewController3.m in Sources */ = {isa = PBXBuildFile; fileRef = 20E1BE241B67D2FC009DAF41 /* beacon1TableViewController3.m */; };
+		20E1BE271B67DAAF009DAF41 /* 5806582-grass-letter-m-isolated-on-white-background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20E1BE261B67DAAF009DAF41 /* 5806582-grass-letter-m-isolated-on-white-background.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +39,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2006BC921B68058400DF2C22 /* picture3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = picture3.jpg; sourceTree = "<group>"; };
+		2006BC941B6811CD00DF2C22 /* picture1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = picture1.jpg; sourceTree = "<group>"; };
+		2006BC961B681D3700DF2C22 /* beacon3ViewController3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = beacon3ViewController3.h; sourceTree = "<group>"; };
+		2006BC971B681D3700DF2C22 /* beacon3ViewController3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = beacon3ViewController3.m; sourceTree = "<group>"; };
+		2006BC991B6821B400DF2C22 /* picture2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = picture2.jpg; sourceTree = "<group>"; };
+		2006BC9B1B6821BB00DF2C22 /* Thumb-Up-Fiverr-Signature-Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Thumb-Up-Fiverr-Signature-Logo.png"; sourceTree = "<group>"; };
+		2006BC9D1B682ADB00DF2C22 /* Images-2.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Images-2.xcassets"; sourceTree = "<group>"; };
+		2006BC9F1B68349E00DF2C22 /* mojix copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mojix copy.png"; sourceTree = "<group>"; };
+		2006BCA11B6834FA00DF2C22 /* icon-small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-small.png"; sourceTree = "<group>"; };
 		20E1BDF21B67BD50009DAF41 /* MyMuseum.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyMuseum.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20E1BDF61B67BD50009DAF41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		20E1BDF71B67BD50009DAF41 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -36,10 +57,17 @@
 		20E1BDFD1B67BD50009DAF41 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		20E1BE001B67BD50009DAF41 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		20E1BE021B67BD50009DAF41 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		20E1BE051B67BD50009DAF41 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		20E1BE0B1B67BD50009DAF41 /* MyMuseumTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyMuseumTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		20E1BE101B67BD50009DAF41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		20E1BE111B67BD50009DAF41 /* MyMuseumTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyMuseumTests.m; sourceTree = "<group>"; };
+		20E1BE1B1B67BD75009DAF41 /* EstimoteSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = EstimoteSDK.framework; sourceTree = "<group>"; };
+		20E1BE1D1B67D2C0009DAF41 /* beacon1ViewController1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = beacon1ViewController1.h; sourceTree = "<group>"; };
+		20E1BE1E1B67D2C0009DAF41 /* beacon1ViewController1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = beacon1ViewController1.m; sourceTree = "<group>"; };
+		20E1BE201B67D2DB009DAF41 /* beacon2ViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = beacon2ViewController2.h; sourceTree = "<group>"; };
+		20E1BE211B67D2DB009DAF41 /* beacon2ViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = beacon2ViewController2.m; sourceTree = "<group>"; };
+		20E1BE231B67D2FC009DAF41 /* beacon1TableViewController3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = beacon1TableViewController3.h; sourceTree = "<group>"; };
+		20E1BE241B67D2FC009DAF41 /* beacon1TableViewController3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = beacon1TableViewController3.m; sourceTree = "<group>"; };
+		20E1BE261B67DAAF009DAF41 /* 5806582-grass-letter-m-isolated-on-white-background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "5806582-grass-letter-m-isolated-on-white-background.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +75,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				20E1BE1C1B67BD75009DAF41 /* EstimoteSDK.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +92,11 @@
 		20E1BDE91B67BD4F009DAF41 = {
 			isa = PBXGroup;
 			children = (
+				2006BCA11B6834FA00DF2C22 /* icon-small.png */,
+				2006BC9F1B68349E00DF2C22 /* mojix copy.png */,
+				2006BC9B1B6821BB00DF2C22 /* Thumb-Up-Fiverr-Signature-Logo.png */,
+				2006BC991B6821B400DF2C22 /* picture2.jpg */,
+				20E1BE1B1B67BD75009DAF41 /* EstimoteSDK.framework */,
 				20E1BDF41B67BD50009DAF41 /* MyMuseum */,
 				20E1BE0E1B67BD50009DAF41 /* MyMuseumTests */,
 				20E1BDF31B67BD50009DAF41 /* Products */,
@@ -81,14 +115,25 @@
 		20E1BDF41B67BD50009DAF41 /* MyMuseum */ = {
 			isa = PBXGroup;
 			children = (
+				2006BC941B6811CD00DF2C22 /* picture1.jpg */,
+				2006BC921B68058400DF2C22 /* picture3.jpg */,
+				20E1BE261B67DAAF009DAF41 /* 5806582-grass-letter-m-isolated-on-white-background.jpg */,
 				20E1BDF91B67BD50009DAF41 /* AppDelegate.h */,
 				20E1BDFA1B67BD50009DAF41 /* AppDelegate.m */,
 				20E1BDFC1B67BD50009DAF41 /* ViewController.h */,
 				20E1BDFD1B67BD50009DAF41 /* ViewController.m */,
 				20E1BDFF1B67BD50009DAF41 /* Main.storyboard */,
 				20E1BE021B67BD50009DAF41 /* Images.xcassets */,
-				20E1BE041B67BD50009DAF41 /* LaunchScreen.xib */,
 				20E1BDF51B67BD50009DAF41 /* Supporting Files */,
+				20E1BE1D1B67D2C0009DAF41 /* beacon1ViewController1.h */,
+				20E1BE1E1B67D2C0009DAF41 /* beacon1ViewController1.m */,
+				20E1BE201B67D2DB009DAF41 /* beacon2ViewController2.h */,
+				20E1BE211B67D2DB009DAF41 /* beacon2ViewController2.m */,
+				20E1BE231B67D2FC009DAF41 /* beacon1TableViewController3.h */,
+				20E1BE241B67D2FC009DAF41 /* beacon1TableViewController3.m */,
+				2006BC961B681D3700DF2C22 /* beacon3ViewController3.h */,
+				2006BC971B681D3700DF2C22 /* beacon3ViewController3.m */,
+				2006BC9D1B682ADB00DF2C22 /* Images-2.xcassets */,
 			);
 			path = MyMuseum;
 			sourceTree = "<group>";
@@ -199,9 +244,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2006BC9E1B682ADB00DF2C22 /* Images-2.xcassets in Resources */,
+				2006BC951B6811CD00DF2C22 /* picture1.jpg in Resources */,
 				20E1BE011B67BD50009DAF41 /* Main.storyboard in Resources */,
-				20E1BE061B67BD50009DAF41 /* LaunchScreen.xib in Resources */,
+				2006BC9C1B6821BB00DF2C22 /* Thumb-Up-Fiverr-Signature-Logo.png in Resources */,
+				2006BC9A1B6821B400DF2C22 /* picture2.jpg in Resources */,
 				20E1BE031B67BD50009DAF41 /* Images.xcassets in Resources */,
+				20E1BE271B67DAAF009DAF41 /* 5806582-grass-letter-m-isolated-on-white-background.jpg in Resources */,
+				2006BC931B68058400DF2C22 /* picture3.jpg in Resources */,
+				2006BCA21B6834FA00DF2C22 /* icon-small.png in Resources */,
+				2006BCA01B68349E00DF2C22 /* mojix copy.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,9 +271,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				20E1BE1F1B67D2C0009DAF41 /* beacon1ViewController1.m in Sources */,
+				2006BC981B681D3700DF2C22 /* beacon3ViewController3.m in Sources */,
 				20E1BDFE1B67BD50009DAF41 /* ViewController.m in Sources */,
 				20E1BDFB1B67BD50009DAF41 /* AppDelegate.m in Sources */,
+				20E1BE221B67D2DB009DAF41 /* beacon2ViewController2.m in Sources */,
 				20E1BDF81B67BD50009DAF41 /* main.m in Sources */,
+				20E1BE251B67D2FC009DAF41 /* beacon1TableViewController3.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,14 +306,6 @@
 				20E1BE001B67BD50009DAF41 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		20E1BE041B67BD50009DAF41 /* LaunchScreen.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				20E1BE051B67BD50009DAF41 /* Base */,
-			);
-			name = LaunchScreen.xib;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -347,7 +395,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-1";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = MyMuseum/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -357,7 +411,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-1";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = MyMuseum/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -416,6 +476,7 @@
 				20E1BE171B67BD50009DAF41 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		20E1BE181B67BD50009DAF41 /* Build configuration list for PBXNativeTarget "MyMuseumTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +485,7 @@
 				20E1BE1A1B67BD50009DAF41 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
